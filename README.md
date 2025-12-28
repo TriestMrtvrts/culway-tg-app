@@ -10,6 +10,7 @@ Culway — MVP-проект, состоящий из Telegram-бота и Web-п
 СТРУКТУРА ПРОЕКТА
 
 culway/
+
 |-- culway-tg-bot/
 
 |   |-- bot.py
