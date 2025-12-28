@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, F
 from aiogram.filters import CommandStart
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, WebAppInfo
 
-BOT_TOKEN  = "8246844409:AAHUFGCL0ji5lLBKDiow2iuNEOrxiR13akg"   # ← вставьте строкой
+BOT_TOKEN  = ""   # ← вставьте строкой
 WEBAPP_URL = "https://b6459414-543c-43f7-a896-ff853359be50.tunnel4.com"  # ← ваш HTTPS URL
 
 bot = Bot(token=BOT_TOKEN)
