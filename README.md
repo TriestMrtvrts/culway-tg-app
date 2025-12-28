@@ -10,28 +10,28 @@ Culway — MVP-проект, состоящий из Telegram-бота и Web-п
 СТРУКТУРА ПРОЕКТА
 
 culway/
-├── culway-tg-bot/
-│   ├── bot.py
-│   ├── old_app.tsx
-│   ├── old_app_v2.tsx
-│   ├── old_app_v3.tsx
-│   ├── old_app_v4.tsx
-│   ├── old_app_v5.tsx
-│   ├── old_app_v6.tsx
-│   ├── old_app_v7.tsx
-│   ├── old_app_v8.tsx
-│   └── v9.tsx
-│
-├── culway-webapp/
-│   ├── src/
-│   ├── public/
-│   ├── index.html
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── vite.config.ts
-│   └── tailwind.config.js
-│
-└── README.txt
+|-- culway-tg-bot/
+|   |-- bot.py
+|   |-- old_app.tsx
+|   |-- old_app_v2.tsx
+|   |-- old_app_v3.tsx
+|   |-- old_app_v4.tsx
+|   |-- old_app_v5.tsx
+|   |-- old_app_v6.tsx
+|   |-- old_app_v7.tsx
+|   |-- old_app_v8.tsx
+|   `-- v9.tsx
+|
+|-- culway-webapp/
+|   |-- src/
+|   |-- public/
+|   |-- index.html
+|   |-- package.json
+|   |-- package-lock.json
+|   |-- vite.config.ts
+|   `-- tailwind.config.js
+|
+`-- README.txt
 
 
 TELEGRAM BOT (culway-tg-bot)
